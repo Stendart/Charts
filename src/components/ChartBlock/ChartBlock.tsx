@@ -1,6 +1,6 @@
 import React from 'react'
 import { ChartsPannel } from '../ChartsPannel/ChartsPannel'
-import { ChartWrapper } from '../Chart/ChartWrapper'
+import { ChartWrapper } from '../Chart/ChartWrapper/ChartWrapper'
 
 import style from './ChatBlock.module.css'
 

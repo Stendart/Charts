@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { ChartCanvas } from './ChartCanvas'
-import { Chart } from './Chart'
+import { ChartCanvas } from '../ChartCanvas/ChartCanvas'
+import { Chart } from '../Chart/Chart'
 
 import style from './ChartWrapper.module.css'
 

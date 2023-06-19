@@ -1,8 +1,7 @@
 import React from 'react'
 
-import { ChartLines } from './ChartLines'
-import { ChartRect } from './ChartRect'
-import { ChartCanvas } from './ChartCanvas'
+import { ChartLines } from '../DrawingUnits/ChartLines'
+import { ChartRect } from '../DrawingUnits/ChartRect'
 
 
 
