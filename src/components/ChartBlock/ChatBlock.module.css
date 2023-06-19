@@ -4,8 +4,12 @@
 
 .panel {
   margin-right: 20px;
+  padding-right: 20px;
+  border-right: 1px solid rgb(193, 161, 161);
+  min-height: 500px;
+  flex-grow: 1;
 }
 
 .chart {
-  
+  flex-grow: 3;
 }
